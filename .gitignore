@@ -1,0 +1,8 @@
+*.exe
+*.o
+*.stackdump
+*.swp
+*.d
+
+sandbox
+.vscode

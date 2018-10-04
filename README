@@ -1,0 +1,7 @@
+Command line 2048 game
+
+compile with:
+
+g++ 2048.cc -std=c++17 -lncurses -O2 -o 2048
+
+can be configured to be different size grids, different starting cells, and different randomly appearing cells by changing the input to the constructor.
